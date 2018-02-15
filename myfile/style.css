@@ -1,0 +1,56 @@
+#bodyStyle{
+    line-height: 10px;
+}
+
+#hading1{
+    color: Black;
+    text-align: center;
+    font-size: 32px;
+    line-height: 10px;
+}
+
+#lastname{
+    color: black;
+}
+
+#Address{
+    color: #595959;
+    font-size: 14px;
+    text-align: center;
+    font-family:'Arial Narrow';
+    line-height: 10px;
+}
+#email{
+    color: #43796A;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Arial Narrow';
+    line-height: 10px;
+}
+
+#Discription{
+    color: #595959;
+    font-size: 14px;
+    font-family: 'Arial Narrow';
+    line-height: 20px;
+}
+
+#jobtitle{
+    color: #43796A;
+}
+#skillstyle{
+    color: #595959;
+    font-size: 14px;
+    line-height: 20px;
+}
+li{
+    font-size: 14px;
+    color: #43796A;
+}
+#skillList{
+    color: #595959;
+}
+
+hr{
+    clear: both;
+}
